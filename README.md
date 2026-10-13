@@ -8,9 +8,9 @@ Mi objetivo es incorporarme a un equipo en un puesto junior de desarrollo de sof
 
 ## Formación
 
-- **Desarrollo de Aplicaciones Multiplataforma (DAM):** terminado.
-- **Especialización en Inteligencia Artificial y Big Data:** terminada.
-- **Desarrollo de Aplicaciones Web (DAW):** segundo curso en marcha.
+- **Desarrollo de Aplicaciones Multiplataforma (DAM):**.
+- **Especialización en Inteligencia Artificial y Big Data:**.
+- **Desarrollo de Aplicaciones Web (DAW):**.
 
 ## Habilidades técnicas
 
